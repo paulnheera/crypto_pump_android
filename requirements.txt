@@ -1,3 +1,4 @@
 python-binance
 plotly
 beautifulsoup4
+lxml
