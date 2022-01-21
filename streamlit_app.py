@@ -126,8 +126,8 @@ if 'streaming' not in st.session_state:
 """
 
 # On Start:
-if 'telegram_channels' not in st.session_state:
-    st.session_state.telegram_channels = pd.read_csv('telegram_channels.csv')
+#if 'telegram_channels' not in st.session_state:
+#    st.session_state.telegram_channels = pd.read_csv('telegram_channels.csv')
     
 
 # Choose exchange:
